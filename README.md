@@ -1,6 +1,6 @@
 # Smart-Shopping-Assistant-Cart
 
-An Arduino-based embedded system project that helps customers identify products, view product details, and calculate total shopping cost in real time.
+🛒 A smart embedded system project built using Arduino that automates shopping assistance by identifying products, displaying information, and calculating total costs using RFID, sensors, and real-time processing.
 
 ## ✨ Features
 -  Product identification using RFID
