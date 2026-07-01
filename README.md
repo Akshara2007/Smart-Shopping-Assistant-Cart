@@ -1,6 +1,4 @@
 # Smart-Shopping-Assistant-Cart
-An Arduino-based smart shopping assistant that helps customers track product details, prices, and total shopping cost in real time 
-# 🛒 Smart Shopping Cart
 
 An Arduino-based embedded system project that helps customers identify products, view product details, and calculate total shopping cost in real time.
 
