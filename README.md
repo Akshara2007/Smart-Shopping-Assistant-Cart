@@ -14,5 +14,8 @@
 -  RFID Module
 - 📟LCD Display
 
+## ⚙️ Working Principle
+The RFID module scans product tags and sends product information to the Arduino. The Arduino processes the data, displays product details on the LCD, and updates the total cost automatically.
+
 ##  Project Status
 🔄 In Progress
