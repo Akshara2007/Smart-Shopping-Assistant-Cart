@@ -1,2 +1,2 @@
-# Shopping-Cost-Assistant
-An Arduino-based Shopping Cost Assistant that helps customers track product details and estimated shopping expenses in real time.
+# Smart-Shopping-Assistant-Cart
+An Arduino-based smart shopping assistant that helps customers track product details, prices, and total shopping cost in real time using embedded systems
